@@ -241,7 +241,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: rgb(245, 99, 75);
+  color: #FFCE00;
 }
 
 .text-black {
